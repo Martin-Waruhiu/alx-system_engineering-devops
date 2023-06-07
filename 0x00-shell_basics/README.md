@@ -20,4 +20,6 @@
 (making my first directory)
 7-movethatfile
 (moving the betty fie)
+8-firstdelete
+(removing betty)
 
