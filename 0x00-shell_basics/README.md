@@ -24,3 +24,5 @@
 (removing betty)
 9-firstdirdeletion
 (deletion of directory)
+10-back
+(going back to previous directory)
