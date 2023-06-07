@@ -28,4 +28,4 @@
 (PREVIOUS DIRECTORY)
 11-list
 (listing files in all areas long format)
-
+12-filetype(file <name>)
