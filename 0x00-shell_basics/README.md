@@ -13,3 +13,7 @@
 4-list more files
 (listing even hidden files in current directory in long formart)
 
+5-listfilesdigitonly
+(ls -aln  list ids longformat and hidden files)
+
+
