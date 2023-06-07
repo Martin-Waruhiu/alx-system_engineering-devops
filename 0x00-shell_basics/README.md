@@ -16,4 +16,8 @@
 5-listfilesdigitonly
 (ls -aln  list ids longformat and hidden files)
 
+6-firstdirectory
+(making my first directory)
+7-movethatfile
+(moving the betty fie)
 
