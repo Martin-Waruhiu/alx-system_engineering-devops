@@ -25,4 +25,7 @@
 9-firstdirdeletion
 (deletion of directory)
 10-back
-(going back to previous directory)
+(PREVIOUS DIRECTORY)
+11-list
+(listing files in all areas long format)
+
