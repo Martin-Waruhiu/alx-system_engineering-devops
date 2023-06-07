@@ -22,4 +22,5 @@
 (moving the betty fie)
 8-firstdelete
 (removing betty)
-
+9-firstdirdeletion
+(deletion of directory)
