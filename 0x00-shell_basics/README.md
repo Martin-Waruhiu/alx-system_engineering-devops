@@ -11,5 +11,5 @@
 (display current files in long format) 
 
 4-list more files
-(listing even hidden files in current directory)
+(listing even hidden files in current directory in long formart)
 
