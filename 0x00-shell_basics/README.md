@@ -29,3 +29,5 @@
 11-list
 (listing files in all areas long format)
 12-filetype(file <name>)
+
+13- symbolic link (ln -s)
