@@ -6,3 +6,7 @@
 
 2-bring_me_home
 (home directory)
+
+3-listfiles
+(display current files in long format) 
+
