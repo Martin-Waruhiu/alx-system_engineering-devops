@@ -31,3 +31,5 @@
 12-filetype(file <name>)
 
 13- symbolic link (ln -s)
+14-copy html files (cp un *.html ..)
+
