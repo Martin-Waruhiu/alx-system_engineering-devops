@@ -4,3 +4,5 @@
 (prints current user)
 2-groups
 (printint all groups currently)
+3-new_owner
+(changing file ownership)
