@@ -10,4 +10,7 @@
 (touch file)
 5-execute
 (make hello executable)
-
+6-multiple_prmissions
+(u+e,g+e,o+r)
+7-everybody
+(executing all)
