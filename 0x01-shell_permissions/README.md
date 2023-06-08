@@ -8,4 +8,6 @@
 (changing file ownership)
 4-empty
 (touch file)
+5-execute
+(make hello executable)
 
