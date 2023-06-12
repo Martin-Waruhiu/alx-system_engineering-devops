@@ -1,2 +1,2 @@
-this is the basics of shell redirections
-
+0-hello_world
+(printing hello world)
